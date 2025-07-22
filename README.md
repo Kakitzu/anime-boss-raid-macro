@@ -8,7 +8,7 @@ A Python-based macro that automates the process of purchasing packs, selling ite
 -   **User-Friendly Interface:** Clean and simple UI to control the macro with configurable hotkeys.
 
 ## Requirements
--   You **MUST** be running ROblox in **fullscreen mode**.
+-   You **MUST** be running Roblox in **fullscreen mode**.
 -   Your screen resolution **MUST** be **1920x1080**.
 
 ## How to Run
