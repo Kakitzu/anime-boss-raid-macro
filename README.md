@@ -19,4 +19,4 @@ Python-based macro that automates purchasing packs and selling loot in the Roblo
 3.  **IMPORTANT ANTIVIRUS WARNING:**
     -   Windows Defender will likely pop up a blue screen saying "Windows protected your PC".
     -   This is a **false positive**. Click **"More info"**, and then click the **"Run anyway"** button.
-4.  **Configure and Run:** Select the packs you want to buy, set your hotkeys if desired, and press Start!
+4.  **Configure and Run:** Select the packs you want to buy, set your hotkeys if desired, and start the macro!
