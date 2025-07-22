@@ -3,7 +3,7 @@
 A Python-based macro that automates the process of purchasing packs, selling items, and waiting for restocks in the Roblox game Anime Boss Raid.
 
 ## Features
--   **Automated Pack Buying:** Select the packs you want to purchase, and the macro will buy specifically those.
+-   **Automated Pack Purchasing:** Select the packs you want to purchase, and the macro will purchase those specifically.
 -   **Auto Sell:** After a purchase cycle, it'll go sell to clear your inventory.
 -   **User-Friendly Interface:** Clean and simple UI to control the macro with configurable hotkeys.
 
