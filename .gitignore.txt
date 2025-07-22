@@ -3,6 +3,7 @@ config.json
 debug_images/
 output/
 build/
+dist/
 *.spec
 *.exe
 venv/
