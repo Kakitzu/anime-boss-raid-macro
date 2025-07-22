@@ -1,6 +1,6 @@
 # Anime Boss Raid Macro v1.0.0
 
-A Python-based macro that automates the process of purchasing packs, selling items, and waiting for restocks in the Roblox game Anime Boss Raids.
+A Python-based macro that automates the process of purchasing packs, selling items, and waiting for restocks in the Roblox game Anime Boss Raid.
 
 ## Features
 -   **Automated Pack Buying:** Select the packs you want to purchase, and the macro will buy specifically those.
