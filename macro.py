@@ -126,7 +126,10 @@ class HotkeyCaptureButton(QPushButton):
 
 class RobloxMacroBackend:
     def __init__(self):
-        self.script_dir = os.path.dirname(os.path.abspath(__file__))
+        if getattr(sys, 'frozen', False):
+            self.script_dir = sys._MEIPASS
+        else:
+            self.script_dir = os.path.dirname(os.path.abspath(__file__))        
         self.image_dir = os.path.join(self.script_dir, "images")
         self.image_files = {
             "SummonScreen": "SummonScreen.png",
