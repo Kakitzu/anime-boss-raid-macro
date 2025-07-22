@@ -15,7 +15,7 @@ Python-based macro that automates purchasing packs and selling loot in the Roblo
 
 ## How to Run
 1.  **Download the `.exe`:** Go to the [**Releases Page**](https://github.com/Kakitzu/Anime-Boss-Raid-Macro/releases). Download the `ABR_Macro.exe` file from the latest release.
-2.  **Run the application:** Double-click `macro.exe` to start it.
+2.  **Run the application:** Double-click `ABR_Macro.exe` to start it.
 3.  **IMPORTANT ANTIVIRUS WARNING:**
     -   Windows Defender will likely pop up a blue screen saying "Windows protected your PC".
     -   This is a **false positive**. Click **"More info"**, and then click the **"Run anyway"** button.
