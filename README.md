@@ -12,6 +12,7 @@ Python-based macro that automates purchasing packs and selling loot in the Roblo
 ## Requirements
 -   You **MUST** be running Roblox in **fullscreen mode**.
 -   Your screen resolution **MUST** be **1920x1080**.
+-   You must zoom the in-game camera all the way out (thanks Bob).
 
 ## Disclaimer
 This macro was developed and tested on a specific PC environment (my own). It wasn't built with user accessibility in mind, so results may vary depending on your own PC environment. It has reliance on image detection, which means it finds buttons and other elements by looking for pixel perfect matches to its stored images.
