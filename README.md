@@ -18,7 +18,7 @@ Python-based macro that automates purchasing packs and selling loot in the Roblo
 This macro was developed and tested on a specific PC environment (my own). It wasn't built with user accessibility in mind, so results may vary depending on your own PC environment. It has reliance on image detection, which means it finds buttons and other elements by looking for pixel perfect matches to its stored images.
 
 ## How to Run
-Video going over [**setup**](https://youtu.be/nyysznB2O_M).
+[**Video**](https://youtu.be/nyysznB2O_M) going over setup.
 1.  **Download the `.exe`:** Go to the [**Releases Page**](https://github.com/Kakitzu/Anime-Boss-Raid-Macro/releases). Download the `ABR_Macro.exe` file from the latest release.
 2.  **Run the application:** Double-click `ABR_Macro.exe` to start it.
 3.  **IMPORTANT ANTIVIRUS WARNING:**
