@@ -1,4 +1,4 @@
-# Anime Boss Raid Macro v1.0.0
+# Anime Boss Raid Macro v1.0.1
 
 Python-based macro that automates purchasing packs and selling loot in the Roblox game Anime Boss Raid.
 
