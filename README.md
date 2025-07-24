@@ -12,11 +12,15 @@ Python-based macro that automates purchasing packs and selling loot in the Roblo
 ## Requirements
 -   You **MUST** be running Roblox in **fullscreen mode**.
 -   Your screen resolution **MUST** be **1920x1080**.
+-   In-game camera **MUST** be zoomed all the way out and in top down view (thanks Bob).
+
+## Disclaimer
+This macro was developed and tested on a specific PC environment (my own). It wasn't built with user accessibility in mind, so results may vary depending on your own PC environment. It has reliance on image detection, which means it finds buttons and other elements by looking for pixel perfect matches to its stored images.
 
 ## How to Run
-1.  **Download the `.exe`:** Go to the [**Releases Page**](https://github.com/Kakitzu/Anime-Boss-Raid-Macro/releases). Download the `macro.exe` file from the latest release.
-2.  **Run the application:** Double-click `macro.exe` to start it.
+1.  **Download the `.exe`:** Go to the [**Releases Page**](https://github.com/Kakitzu/Anime-Boss-Raid-Macro/releases). Download the `ABR_Macro.exe` file from the latest release.
+2.  **Run the application:** Double-click `ABR_Macro.exe` to start it.
 3.  **IMPORTANT ANTIVIRUS WARNING:**
     -   Windows Defender will likely pop up a blue screen saying "Windows protected your PC".
     -   This is a **false positive**. Click **"More info"**, and then click the **"Run anyway"** button.
-4.  **Configure and Run:** Select the packs you want to buy, set your hotkeys if desired, and press Start!
+4.  **Configure and Run:** Select the packs you want to buy, set your hotkeys if desired, and start the macro!
