@@ -307,7 +307,7 @@ class RobloxMacroBackend:
                 break
             
             pydirectinput.click()
-            self.responsive_sleep(0.1, signals)
+            self.responsive_sleep(0.5, signals)
 
     def is_summon_screen_open(self, signals):
         return self.find_image_in_region(
@@ -545,6 +545,11 @@ class MainWindow(QMainWindow):
         self.dragPos = None
         self.start_hotkey_ref = None
         self.stop_hotkey_ref = None
+
+        if getattr(sys, 'frozen', False):
+            self.config_file_path = os.path.join(os.path.dirname(sys.executable), 'config.json')
+        else:
+            self.config_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.json')
 
         self.setWindowFlags(Qt.FramelessWindowHint | Qt.WindowStaysOnTopHint)
         self.setAttribute(Qt.WA_TranslucentBackground) 
